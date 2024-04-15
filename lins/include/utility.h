@@ -3,6 +3,7 @@
 
 #include <nav_msgs/Odometry.h>
 #include <opencv/cv.h>
+// include <opencv2/imgproc.hpp>
 #include <pcl/common/common.h>
 #include <pcl/filters/filter.h>
 #include <pcl/filters/voxel_grid.h>
